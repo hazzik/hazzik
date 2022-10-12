@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you like what I do please consider [supporting my work](https://github.com/sponsors/hazzik).
+
 <!--
 **hazzik/hazzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
